@@ -1,4 +1,4 @@
-# O Git é um software de controle de versão
+O Git é um software de controle de versão
 
 
 Com ele, conseguimos gerar registros do nosso projeto mantendo o controle em quais arquivos foram alterados, quando foram alterados e por quem.
@@ -11,7 +11,7 @@ Essa característica do Git somada a uma ótima comunicação do time de devs, p
 
 
 
-# O GitHub é uma espécie de rede social de desenvolvedores
+O GitHub é uma espécie de rede social de desenvolvedores
 
 
 Enquanto o Git é um software, o GitHub é uma plataforma onde você pode subir seus projetos, criar seu portfólio e compartilhá-lo com o mundo.
@@ -19,8 +19,7 @@ Enquanto o Git é um software, o GitHub é uma plataforma onde você pode subir 
 O GitHub funciona usando o Git “por de baixo dos panos” para que devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
 
 
-## Link do Git 
+Link do Git 
 
-
-[Download do Git](https://git-scm.com/downloads)
+https://git-scm.com/downloads
 
