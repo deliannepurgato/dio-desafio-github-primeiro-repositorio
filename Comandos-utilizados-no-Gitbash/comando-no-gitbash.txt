@@ -1,4 +1,4 @@
-# Alguns comandos utilizados no Git Bash
+Alguns comandos utilizados no Git Bash
 
 git init
 git add README.md
