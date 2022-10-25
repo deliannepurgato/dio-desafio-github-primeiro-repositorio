@@ -3,8 +3,8 @@ Após Atualizar ou criar pastas na máquina, é necessario enviar para o reposit
 
 Abrir o gitBash onde se encontra o diretório do .Git e realizar os seguintes comandos:
 
-- git add .
-- git commit -m "explicação do motivo da atualização ou criação"
-- git push origin main/master
+git add .
+git commit -m "explicação do motivo da atualização ou criação"
+git push origin main
 
 Após esses processos, todos arquivos criados ou alterados serão atualizados no GitHub.
