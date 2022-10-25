@@ -16,10 +16,9 @@ O GitHub é uma espécie de rede social de desenvolvedores
 
 Enquanto o Git é um software, o GitHub é uma plataforma onde você pode subir seus projetos, criar seu portfólio e compartilhá-lo com o mundo.
 
-O GitHub funciona usando o Git “por de baixo dos panos” para que devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
+O GitHub funciona usando o Git por de baixo dos panos para que devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
 
 
-Link do Git 
-
+Link do Git
 https://git-scm.com/downloads
 
